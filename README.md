@@ -63,7 +63,6 @@ All functionalities of the main YouTube module defined in the business requireme
 - Non-functional testing such as stress and performance testing is beyond the scope of this project.
 - Only web applications will be tested.
 - Security testing (e.g., penetration testing, vulnerability scanning) is not included in this testing cycle.
-- Accessibility testing for users with disabilities (e.g., screen reader usage, keyboard navigation) is not included in this testing cycle.
 - Localization and internationalization testing for languages other than English will not be included in this project.
 
 ## Test Process
