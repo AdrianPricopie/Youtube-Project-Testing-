@@ -47,6 +47,7 @@ All functionalities of the main YouTube module defined in the business requireme
 - Video Playback
 - Search
 - Filter Video
+- Like/Dislike Video
 
 ### Functionalities for Automated Testing:
 - Sign-up/Sign-in
