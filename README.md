@@ -90,7 +90,6 @@ All functionalities of the main YouTube module defined in the business requireme
 
 - All test cases are written and reviewed.
 - All test cases will be created in Jira as the test management tool.
-- Automated tests will be developed using an appropriate testing framework (e.g., Selenium, BDD for GUI testing, pytest for API testing).
 - Results of automated tests will be reported and monitored in Jira, facilitating the tracking and management of discovered defects.
 
 ### Test Implementation
@@ -98,7 +97,6 @@ All functionalities of the main YouTube module defined in the business requireme
 - All test data is available and reviewed.
 - This test run includes only regression testing, where we will run the highest priority tests.
 - Test suites are created (Cycle Summary has been created).
-- Automated tests will be integrated into the CI/CD pipeline to allow continuous running with every code change, thus ensuring early defect detection.
 
 ### Test Execution
 
