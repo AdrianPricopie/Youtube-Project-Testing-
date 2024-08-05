@@ -38,33 +38,13 @@ Our goal is to increase confidence in the quality of the project as much as poss
 
 All functionalities of the main YouTube module defined in the business requirements will be tested using the following types of testing: functional testing, GUI testing, API testing. The YouTube web application will be tested on the latest versions of Chrome.
 
-### Functionalities for Manual Testing:
-- Sign-up/Sign-in
-- Password Recovery
-- Account Removal
-- Upload Video
-- Commenting Feature
-- Video Playback
-- Search
-- Filter Video
-- Like/Dislike Video
-
-### Functionalities for Automated Testing:
-- Sign-up/Sign-in
-- Password Recovery
-- Account Deletion
-- Search Video
-- Video Playback
-- Like/Dislike Video
-- Search
-- Filter Video
-
 ## Functionalities and Tests Out of Scope
 
 - Non-functional testing such as stress and performance testing is beyond the scope of this project.
 - Only web applications will be tested.
 - Security testing (e.g., penetration testing, vulnerability scanning) is not included in this testing cycle.
 - Localization and internationalization testing for languages other than English will not be included in this project.
+- Automation testing
 
 ## Test Process
 
